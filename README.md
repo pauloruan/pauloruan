@@ -15,6 +15,6 @@
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=pauloruan&count_private=true&show_icons=true&theme=nord" />
   </a>
   <a href="https://github.com/pauloruan">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloruan&hide=css&theme=nord&layout=compact" />
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloruan&hide=css&langs_count=8&theme=nord&layout=compact" />
   </a>
 </div>
