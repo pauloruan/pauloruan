@@ -3,7 +3,8 @@
 ## What I'm working on 
 
 [🎼: Music App](https://github.com/pauloruan/music-app) - **React & Node** _application based on a music streaming._ <br />
-[📚: Go Microsoft Learn](https://github.com/pauloruan/go-microsoft-learn) - **Go** _First contacts with Go lang in a [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/) training._
+[📚: HackerRank Challenges](https://github.com/pauloruan/hackerrank-challenges-golang) - **Go** _Solving algorithms written in golang in [HackerRank](https://www.hackerrank.com
+) training._
 
 ## Find me elsewhere 🌎
 
