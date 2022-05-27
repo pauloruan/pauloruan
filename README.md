@@ -2,7 +2,7 @@
 
 ## What I'm working on 
 
-[🎼: Music App](https://github.com/pauloruan/music-app) - **React & Node** - _application based on a music streaming._ <br />
+[🎼: Music App](https://github.com/pauloruan/music-app) - **React & Node** - _Application based on a music streaming._ <br />
 [📚: HackerRank Challenges](https://github.com/pauloruan/hackerrank-challenges-golang) - **Go** - _Golang solutions for [HackerRank](https://www.hackerrank.com
 ) challenges._
 
