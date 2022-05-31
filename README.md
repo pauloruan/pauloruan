@@ -12,7 +12,7 @@
 [💼: LinkedIn](https://www.linkedin.com/in/pauloruan/) <br>
 
 <div align="center">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=pauloruan&show_icons=true&theme=nord&count_private=true&include_all_commits=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=pauloruan&show_icons=true&theme=nord&count_private=true" />
 
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloruan&hide=css&langs_count=8&theme=nord&layout=compact" />
 </div>
