@@ -1,4 +1,4 @@
-# Hey, I'm Paulo Ruan !
+# Hey, I'm Paulo Ruan!
 
 ## What I'm working on 
 
