@@ -6,7 +6,7 @@
 
 <h2>💻 What I'm working on:</h2>
 
-<p>🎵 <a href="https://github.com/pauloruan/music-app">Music App</a> - Application based on a music streaming. </p>
+<p>🎵 <a href="https://github.com/pauloruan/music-app-client">Music App</a> - Application based on a music streaming. </p>
 <p>📚 <a href="https://github.com/pauloruan/hackerrank-challenges-golang">HackerRank Challenges</a> - Golang solutions for <a href="https://www.hackerrank.com">HackerRank</a>.</p>
 
 <h2>🧠 Tech Stack:</h2>
