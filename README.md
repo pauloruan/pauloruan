@@ -6,7 +6,7 @@
 
 <h2>💻 What I'm working on:</h2>
 
-<!-- <p>🎵 <a href="https://github.com/pauloruan/music-app">Music App</a> - Application based on a music streaming. </p> -->
+<p><a href="https://github.com/pauloruan/blog-react">Blog React</a> - Simple blog example written in React. </p>
 
 <h2>🧠 Tech Stack:</h2>
 
