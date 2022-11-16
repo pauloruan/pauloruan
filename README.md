@@ -6,6 +6,8 @@
 
 <h2>💻 What I'm working on:</h2>
 
+<p><a href="https://github.com/pauloruan/auth-microservice">auth-microservice</a> - Login and authentication system built with Typescript. </p>
+
 <p><a href="https://github.com/pauloruan/blog-react">Blog React</a> - Simple blog example written in React. </p>
 
 <h2>🧠 Tech Stack:</h2>
