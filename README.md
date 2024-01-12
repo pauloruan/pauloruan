@@ -1,6 +1,6 @@
 # Paulo Ruan
 
-Estudante de Análise e Desenvolvimento de Software e Desenvolvedor Front-End na [StarCorp](http://www.starcorp.com.br). Minha rotina de trabalho envolve o desenvolvimento de aplicações web, utilizando tecnologias como `JavaScript`, `jQuery`, `AngularJS`, `Next.js` e `C#`.
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-End na [StarCorp](http://www.starcorp.com.br). Minha rotina de trabalho envolve o desenvolvimento de aplicações web, utilizando tecnologias como `JavaScript`, `jQuery`, `AngularJS`, `Next.js` e `C#`.
 
 Atualmente, estou estudando sobre `Cloud`, `AWS`, e `Spring Boot`.
 
