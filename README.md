@@ -1,6 +1,7 @@
 # Paulo Ruan
 
-Estudante de Análise e Desenvolvimento de Sistemas e Quality Assurance na [Raffinato Softwares](https://www.raffinatosoftwares.com). Minha rotina de trabalho envolve o desenvolvimento de testes automatizados e relatórios de cobertura de testes, utilizando tecnologias como `Cypress`, `Jest`, `JUnit` e `Python`.
+Estudante de Análise e Desenvolvimento de Sistemas e Quality Assurance na [Raffinato Softwares](https://www.raffinatosoftwares.com).
+Minha rotina de trabalho envolve o desenvolvimento de testes automatizados e relatórios de cobertura de testes, utilizando tecnologias como `Cypress`, `Jest`, `JUnit` e `Python`.
 
 Atualmente, estou estudando sobre `Kotlin` e `Python`.
 
